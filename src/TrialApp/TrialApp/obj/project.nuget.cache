@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQa8WjftFXcihPtR97F466yxf/P+wRb5U79gW7MSyfGzn717RWJUOsJxm2FwG0CZ3yjpCJBejsZNmAZbfTx85g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fchabane\\Desktop\\Project\\GithubActions\\TrialApp\\src\\TrialApp\\TrialApp\\TrialApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fchabane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
